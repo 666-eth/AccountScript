@@ -1,0 +1,16 @@
+{
+  "name": "accountscript",
+  "version": "1.0.0",
+  "description": "# 环境安装配置 ## 安装 Anaconda 1. 首先，前往 Anaconda 官方网站的下载页面：https://www.anaconda.com/products/distribution 2. 选择 macOS 下的下载选项，下载相应的 Anaconda 安装包。 3. 打开下载的 .pkg 文件并遵循安装提示。 4. 安装完成后，可以在终端中输入 conda 检查是否成功安装",
+  "main": "accountEncrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fast-csv": "^4.3.6",
+    "readline-sync": "^1.4.10"
+  }
+}
