@@ -17,7 +17,7 @@
     3. 从弹出的列表中选择一个 Anaconda 环境。
 
 ## 安装pandas库
-1. 在终端中输入命令`pip instal pandas` 安装pandas库
+1. 在终端中输入命令`pip install pandas` 安装pandas库
 
 # 程序运行
 ## 程序配置
